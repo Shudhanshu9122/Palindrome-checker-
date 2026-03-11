@@ -15,7 +15,7 @@
          System.out.println("Application Name : Palindrome Checker App");
          System.out.println("Application Version : 1.0");
 
-         // Startup message
+
          System.out.println("------------------------------------");
          System.out.println("Application started successfully.");
          System.out.println("Ready to check palindrome strings.");
